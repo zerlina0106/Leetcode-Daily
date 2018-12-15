@@ -1,4 +1,4 @@
-package BalancedBinaryTree_110;
+package BinaryTree.BalancedBinaryTree_110;
 
 
 public class Solution {

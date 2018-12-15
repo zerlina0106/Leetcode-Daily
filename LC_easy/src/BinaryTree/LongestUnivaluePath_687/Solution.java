@@ -1,4 +1,4 @@
-package LongestUnivaluePath_687;
+package BinaryTree.LongestUnivaluePath_687;
 
 
 import org.junit.Test;

@@ -1,4 +1,4 @@
-package MaximumDepthOfBinaryTree_104;
+package BinaryTree.MaximumDepthOfBinaryTree_104;
 
 public class Solution {
 	public class TreeNode {

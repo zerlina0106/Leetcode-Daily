@@ -1,4 +1,4 @@
-package MinimumDepthOfBinaryTree_111;
+package BinaryTree.MinimumDepthOfBinaryTree_111;
 
 import org.junit.Test;
 

@@ -1,4 +1,4 @@
-package ConvertSortedArrayToBinarySearchTree_108;
+package BinaryTree.ConvertSortedArrayToBinarySearchTree_108;
 
 import org.junit.Test;
 

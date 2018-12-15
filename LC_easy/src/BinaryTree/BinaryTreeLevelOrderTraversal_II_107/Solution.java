@@ -1,4 +1,4 @@
-package BinaryTreeLevelOrderTraversal_II_107;
+package BinaryTree.BinaryTreeLevelOrderTraversal_II_107;
 
 import org.junit.Test;
 

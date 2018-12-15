@@ -1,4 +1,4 @@
-package AddBinary_67;
+package BinaryTree.AddBinary_67;
 
 import org.junit.Test;
 

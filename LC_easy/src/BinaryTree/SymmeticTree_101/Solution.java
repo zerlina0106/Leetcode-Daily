@@ -1,4 +1,4 @@
-package SymmeticTree_101;
+package BinaryTree.SymmeticTree_101;
 
 
 public class Solution {
