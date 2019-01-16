@@ -1,4 +1,4 @@
-package Array.TwoSumII_167;
+package Array.easy.TwoSumII_167;
 
 import org.junit.Test;
 
